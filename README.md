@@ -1,0 +1,1 @@
+Project using Node.js and Express in order to create an API of Champions League. This project in reality was developed by the platform DIO and later on the idea will be creating a FrontEnd to integrate with this Backend or any other idea, but for now this project is done.
